@@ -1,0 +1,14 @@
+D:\Project\WORKING\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+D:\Project\WORKING\Service\bin\Debug\netcoreapp2.0\Service.dll
+D:\Project\WORKING\Service\bin\Debug\netcoreapp2.0\Service.pdb
+D:\Project\WORKING\Service\obj\Debug\netcoreapp2.0\Service.csprojResolveAssemblyReference.cache
+D:\Project\WORKING\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+D:\Project\WORKING\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+D:\Project\WORKING\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+D:\Project\WORKING\Service\obj\Debug\netcoreapp2.0\Service.dll
+D:\Project\WORKING\Service\obj\Debug\netcoreapp2.0\Service.pdb
+D:\Project\WORKING\Service\bin\Debug\netcoreapp2.0\Model.dll
+D:\Project\WORKING\Service\bin\Debug\netcoreapp2.0\Persistance.dll
+D:\Project\WORKING\Service\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Project\WORKING\Service\bin\Debug\netcoreapp2.0\Persistance.pdb
+D:\Project\WORKING\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete

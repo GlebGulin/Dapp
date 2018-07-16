@@ -1,0 +1,12 @@
+D:\Project\WORKING\Persistance\bin\Debug\netcoreapp2.0\Persistance.deps.json
+D:\Project\WORKING\Persistance\bin\Debug\netcoreapp2.0\Persistance.dll
+D:\Project\WORKING\Persistance\obj\Debug\netcoreapp2.0\Persistance.csproj.CoreCompileInputs.cache
+D:\Project\WORKING\Persistance\obj\Debug\netcoreapp2.0\Persistance.AssemblyInfoInputs.cache
+D:\Project\WORKING\Persistance\obj\Debug\netcoreapp2.0\Persistance.AssemblyInfo.cs
+D:\Project\WORKING\Persistance\bin\Debug\netcoreapp2.0\Persistance.pdb
+D:\Project\WORKING\Persistance\bin\Debug\netcoreapp2.0\Model.dll
+D:\Project\WORKING\Persistance\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Project\WORKING\Persistance\obj\Debug\netcoreapp2.0\Persistance.csprojResolveAssemblyReference.cache
+D:\Project\WORKING\Persistance\obj\Debug\netcoreapp2.0\Persistance.csproj.CopyComplete
+D:\Project\WORKING\Persistance\obj\Debug\netcoreapp2.0\Persistance.dll
+D:\Project\WORKING\Persistance\obj\Debug\netcoreapp2.0\Persistance.pdb
